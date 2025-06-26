@@ -1,6 +1,5 @@
 # 100xTechs
 
-## 🚀 Who We Are
 
 100xTechs is an organization built on the foundation of technical excellence, professionalism, and a commitment to delivering value. Our team consists of seasoned developers, designers, and consultants who thrive on solving complex challenges and turning ideas into reality.
 
