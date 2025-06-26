@@ -1,10 +1,5 @@
 # 100xTechs
 
-Welcome to **100xTechs** – your trusted partner for innovative, high-quality freelance solutions.  
-Founded by [Kishan Vyas](https://github.com/KishanVyas308), 100xTechs is a dynamic technology company specializing in versatile freelance services for businesses, startups, and individuals across the globe.
-
----
-
 ## 🚀 Who We Are
 
 100xTechs is an organization built on the foundation of technical excellence, professionalism, and a commitment to delivering value. Our team consists of seasoned developers, designers, and consultants who thrive on solving complex challenges and turning ideas into reality.
